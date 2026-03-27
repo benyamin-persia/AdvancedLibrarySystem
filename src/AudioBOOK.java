@@ -1,2 +1,4 @@
-public class AudioBOOK {
+public class AudioBOOK extends Resource {
+
+
 }
